@@ -2,10 +2,38 @@ body {
     background-color: brown;
 }
 
+a {
+    color: yellowgreen;
+}
+
 h1 {
     color: yellow;
 }
 
+h2 {
+    color: yellow;
+}
+
+.subtitle{
+    color: yellow;
+    font-size: 20px;
+    font-style: italic;
+}
+
 p {
     color: yellow;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #BD9A7A;
 }
