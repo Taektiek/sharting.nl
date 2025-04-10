@@ -37,3 +37,9 @@ th, td {
 th {
     background-color: #BD9A7A;
 }
+
+.quote {
+    text-style: italic;
+    color: light blue;
+    font-size: 30px;
+}
