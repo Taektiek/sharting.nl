@@ -39,7 +39,6 @@ th {
 }
 
 .quote {
-    text-style: italic;
-    color: light blue;
+    font-style: italic;
     font-size: 30px;
 }
